@@ -2,7 +2,10 @@
 ## Screenshots of Arduino
 ### Server
 ### Client
-## Demo photo
+## Demo video & photo
+![image](https://github.com/user-attachments/assets/4adb4b61-9efa-4e43-afc1-469504f0046e)
+[![Video](http://img.youtube.com/vi/7oouZjq09w0/0.jpg)](https://youtu.be/7oouZjq09w0)
+
 ## Test and Analyze
 ### Table
 | Actual Distance (m) | Average Measured Distance (m) | Error (m) | Error Margin (%) |
