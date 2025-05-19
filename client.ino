@@ -7,8 +7,8 @@
 #define LED_PIN 2
 
 // Wi-Fi 정보 입력
-const char* ssid = "hotspots";
-const char* password = "testtest";
+const char* ssid = "";
+const char* password = "";
 
 // 거리 계산 변수
 int txPower = -65;  // 1m 거리에서의 RSSI
